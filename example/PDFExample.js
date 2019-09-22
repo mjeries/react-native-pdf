@@ -11,7 +11,7 @@ import {
     StyleSheet,
     TouchableHighlight,
     Dimensions,
-    SafeAreaView
+    SafeAreaView,
     View,
     Text
 } from 'react-native';
